@@ -1,0 +1,51 @@
+color:
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.30804145941510797
+  lightness: 0.8838858432136476
+  saturation: 0.4522370046470314
+  rhythmicContrast: 0.8550828720908612
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Terapia de Caminhos
+layout_spectrum: 0.5530421338044107
+typography_spectrum: 0.4284107331186533
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/287e28d7-8b68-458a-ba14-6dd6d43df568.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/287e28d7-8b68-458a-ba14-6dd6d43df568.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Terapia de Caminhos
+description: >-
+  Terapia de Caminhos é um site criado para servir como fonte de informações e
+  troca de conhecimentos en
+github: true
